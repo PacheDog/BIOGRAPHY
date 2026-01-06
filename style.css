@@ -8,6 +8,7 @@ hr{
   background-color:#051923;
 }
 h3{
+  text-shadow: 10px 10px 20px red;
   font-family:Georgia;
 }
 
@@ -15,7 +16,6 @@ h1{
   margin-top:0;
   margin-bottom:0.5in;
   color:#051923;
-  text-shadow: 10px, 10px, 20px, red;
 }
 
 header{
