@@ -2,7 +2,11 @@
 	text-align:center;
 }
 
+h2{
+	text-decoration:none;
+}
 .childhood-section p, .teen-section p, .college-section p{
 	text-indent: 30px;
 
 }
+
