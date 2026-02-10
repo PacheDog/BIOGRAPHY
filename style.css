@@ -23,6 +23,7 @@ body {
     align-items: center;
     height: 180px;
 	position:fixed;
+	z-index:20;
 }
 
 .web-name {
@@ -241,4 +242,5 @@ footer{
         justify-content: center;
     }
 }
+
 */
