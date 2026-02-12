@@ -49,6 +49,12 @@ summary img:hover{
 	gap:20px;
 }
 
+.col-img img:hover{
+	transform: scale(1.05);
+	z-index: 10;
+	position: relative; 
+}
+
 hr{
 	margin:20px;
 	width:100%;
@@ -78,4 +84,5 @@ hr{
     transform: scale(1.1);
     background-color: #003554;
 	color:white;
+
 }
