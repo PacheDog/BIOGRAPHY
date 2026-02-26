@@ -53,14 +53,6 @@
 	margin-bottom:10px;
 }
 
-.text h3{
-    text-align:justify;
-}
-
-.links{
-	text-align:left;
-}
-
 .text p{
 	width:300px;
 	line-height:2;
@@ -108,6 +100,7 @@
 	justify-content:flex-end;
 
 }
+
 
 
 
