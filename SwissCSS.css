@@ -60,6 +60,7 @@
 }
 
 .text a{
+	text-align:justify;
 	text-decoration:none;
 }
 
@@ -99,3 +100,4 @@
 	justify-content:flex-end;
 
 }
+
