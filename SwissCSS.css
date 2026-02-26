@@ -10,10 +10,6 @@
 	margin:10px;
 }
 
-.center a{
-    text-align:left;
-}
-
 .start-front-pic{
 	flex:1;
 	width:500px;
@@ -68,7 +64,6 @@
 }
 
 .text a{
-	text-align:justify;
 	color:#003554;
 	text-decoration:none;
 }
@@ -109,6 +104,7 @@
 	justify-content:flex-end;
 
 }
+
 
 
 
