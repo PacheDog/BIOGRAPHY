@@ -53,6 +53,10 @@
 	margin-bottom:10px;
 }
 
+.text h3{
+    text-align:left;
+}
+
 .text p{
 	width:300px;
 	line-height:2;
@@ -60,7 +64,7 @@
 }
 
 .text a{
-	text-align:justify;
+	color:#003554;
 	text-decoration:none;
 }
 
@@ -100,4 +104,5 @@
 	justify-content:flex-end;
 
 }
+
 
