@@ -59,6 +59,15 @@
 	word-spacing:3px;
 }
 
+.text a{
+	text-decoration:none;
+}
+
+.text a:hover{
+	text-decoration:underline;
+    color:#7EB6C6;
+}
+
 .bot-nav{
 	display:flex;
 	margin-top:30px;
@@ -88,4 +97,5 @@
 	display:flex;
 	flex:1;
 	justify-content:flex-end;
+
 }
